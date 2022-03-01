@@ -19,7 +19,7 @@
 
 -------------
 
-## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
+## [REPL](https://t.me/COBRA_STRINGSESSIONBOT)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
@@ -48,7 +48,7 @@ Command | Description
 • !ping | Check if alive or not
 • !start / !help | Show the help for commands
 • !mode / !switch | Switch the stream mode (audio/video)
-• !p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
+• !p / !c / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
 • !radio / !stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
 • !pl / !playlist [youtube playlist link] | Play the whole youtube playlist at once
 • !skip / !next | Skip to the next song
